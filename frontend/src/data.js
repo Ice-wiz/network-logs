@@ -1,4 +1,4 @@
-import data from "../../output.json";
+import data from "../src/output.json";
 
 const getEventTypeCounts = () => {
   const eventTypeCounts = {};
